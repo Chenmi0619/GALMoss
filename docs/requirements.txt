@@ -1,0 +1,11 @@
+torch>=2.0.1
+torch-optimizer>=0.3.0
+numpy
+pandas
+astropy
+pandas
+tqdm
+h5py
+
+sphinx_rtd_theme
+sphinx
