@@ -39,7 +39,7 @@ How to use
 Fit sersic profile on single galaxy
 ------------------------------------
 
-Here, we demonstrate how to fit a single Sérsic profile to `SDSS image data <https://github.com/Chenmi0619/GALMoss/tree/main/repo/dataset>`_ using the GALMoss package.
+Here, we demonstrate how to fit a single Sérsic profile to `SDSS image data <https://github.com/Chenmi0619/GALMoss/tree/master/repo/dataset>`_ using the GALMoss package.
 
 First, we need to load the necessary packages.
 
